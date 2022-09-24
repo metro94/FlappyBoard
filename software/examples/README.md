@@ -8,7 +8,11 @@ These examples are tested for FlappyBoard, and shall work for other CH32V203G6 b
 
 ## CH372Device_D_FS
 
-Compiled directly from `EVT/EXAM/USB/USBFS/DEVICE/CH372Device`.
+Compiled directly from `EVT/EXAM/USB/USBD/CH372Device`.
+
+## CompositeKM
+
+Modified from `EVT/EXAM/USB/USBD/CompositeKM`, use *PA2/PA3* as USART2 TX/RX.
 
 ## LED_Toggle
 
