@@ -2,9 +2,11 @@
 
 These examples are tested for FlappyBoard, and shall work for other CH32V203G6 boards.
 
+> Note: WCHISPTool requires hex file to use CRLF as EOL.
+
 *EVT* refers to [CH32V20xEVT.zip](https://www.wch.cn/downloads/CH32V20xEVT_ZIP.html), which contains source code of the most examples. [MounRiver Studio](http://www.mounriver.com/) or its toolchains can be used to compile source code.
 
-> Note: These examples use *USART1* (*PA9*) as debug port with 115200n8 configuration by default.
+> Note: These examples use *USART1* (*PA9*) as debug port with 115200n8 by default.
 
 ## CH372Device_D_FS
 
